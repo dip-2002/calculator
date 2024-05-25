@@ -21,6 +21,11 @@ body{
     
 }
 
+h1 {
+    position: absolute;
+    top: 40px;
+    color: aqua;
+}
 
 .calculator{
     border: 1.5px solid #717377;
